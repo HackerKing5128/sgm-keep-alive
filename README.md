@@ -1,6 +1,7 @@
 # SGM Keep Alive
 
 [![Keep Backend Alive](https://github.com/HackerKing5128/sgm-keep-alive/actions/workflows/keep-me-alive.yml/badge.svg)](https://github.com/HackerKing5128/sgm-keep-alive/actions)
+
 ---
 
 This GitHub Actions workflow keeps the [Smart Grievance Management](https://github.com/HackerKing5128/smart-grievance-management)'s backend alive on [Render](https://render.com)'s free tier, which otherwise shuts down due to 15 minutes of inactivity.
