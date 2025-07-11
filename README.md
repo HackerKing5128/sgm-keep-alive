@@ -1,6 +1,6 @@
 # SGM Keep Alive
 
-[![Keep Backend Alive](https://github.com/HackerKing5128/sgm-keep-alive/actions/workflows/keep-me-alive.yml/badge.svg)](https://github.com/HackerKing5128/sgm-keep-alive/actions)
+[![Keep Backend Alive](https://github.com/HackerKing5128/sgm-keep-alive/actions/workflows/sgm-keep-alive.yml/badge.svg)](https://github.com/HackerKing5128/sgm-keep-alive/actions)
 
 ---
 
